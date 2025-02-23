@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Appointmentbookingsystem {
     private static final String url = "jdbc:mysql://localhost:3306/hospital";
     private static final String username = "root";
-    private static final String password = "Madarchod#1";
+    private static final String password = ""; //Add your own password
 
     public static void main(String[] args) {
         try{
